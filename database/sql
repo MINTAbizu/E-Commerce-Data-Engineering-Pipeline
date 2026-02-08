@@ -1,0 +1,6 @@
+CREATE DATABASE ecommerce;
+
+
+
+CREATE SCHEMA raw;
+CREATE SCHEMA analytics;
